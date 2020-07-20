@@ -1,0 +1,92 @@
+.heading{
+    text-align: center;
+    padding-top:40px;
+    font-size: 48;
+    font-family: gill sans;
+}
+
+.container{
+    padding-top:200px;
+}
+
+.mission{
+    margin-top: 30px;
+    border: solid;
+    padding:20px;
+    border-color: c7e2b2;
+    font-family: gill sans;
+    background-color: c7e2b2;
+    color:white;
+}
+
+.whatwedo{
+    margin-top: 30px;
+    border: solid;
+    padding:20px;
+    border-color: a2de96;
+    font-family: gill sans;
+    background-color:a2de96;
+    color:white;
+}
+
+.why{
+    margin-top: 30px;
+    border: solid;
+    padding:20px;
+    border-color: 99b898;
+    font-family: gill sans;
+    background-color:99b898;
+    color:white;
+}
+
+
+.text{
+    background-image: url('assets/bg.jpg');
+    padding-bottom:100px;
+}
+
+.readmore{
+    display:block;
+    margin-left: 290px;
+    margin-right: auto;
+    width:50%;
+}
+
+.stuff{
+    background-color:c7e2b2;
+    padding-left: 200px;
+    padding-right:200px;
+    padding-bottom: 100px;
+    font-family: gill sans;
+}
+
+.subheading{
+    font-size: 30;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+.contact{
+    padding-left:400px;
+    background-color: c7e2b2;
+    font-family: gill sans;
+}
+
+.column {
+    width: 40%;
+  }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.questions{
+    background-color: c7e2b2;
+    font-family: gill sans;
+    text-align: center;
+}
